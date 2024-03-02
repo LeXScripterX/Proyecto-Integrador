@@ -21,5 +21,5 @@ Este es un simple programa interactivo de contador desarrollado en Python. Permi
 
 ## Ejemplo de Interacción
 
-![Ejemplo](/home/iteza/Documentos/.GIT/Proyecto-Integrador/PintegradorPart_3/img/pIntegradorPart3.png)
+![Ejemplo](Proyecto-Integrador/PintegradorPart_3/img/pIntegradorPart3.png)
 
